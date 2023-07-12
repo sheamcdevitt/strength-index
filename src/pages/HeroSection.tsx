@@ -1,6 +1,6 @@
 import React from 'react';
-import { Box, Link, Typography } from '@mui/material';
-import { Chart } from './Chart';
+import { Box, Typography } from '@mui/material';
+import Chart from 'components/Chart';
 
 const Hero: React.FC = () => {
   return (
